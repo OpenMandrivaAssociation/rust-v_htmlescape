@@ -5,8 +5,8 @@
 %global crate v_htmlescape
 
 Name:           rust-%{crate}
-Version:        0.4.5
-Release:        2%{?dist}
+Version:        0.17.0
+Release:        1%{?dist}
 Summary:        Simd optimized HTML escaping code
 
 # Upstream license specification: MIT/Apache-2.0
